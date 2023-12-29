@@ -1,16 +1,29 @@
-### Hi there 👋
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrockparashar%2Fdrockparashar&countColor=%232ccce4&style=plastic">
 
-<!--
-**drockparashar/drockparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pranshu+Parashar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Pranshu Parashar, Computer Engineering UnderGrad form India
+  <br>
+  <br>
+  🔬 I'm currently pursuing my Bachelor's of Engineering from Army Institute of Technology, Department of Computer Engineering
+  <br>
+  💻 I love writing code and learn anything about it
+  <br>
+  📚 I’m currently learning how to build full-stack apps
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">pranshu007parashar@gmail.com</a>
+</p>
