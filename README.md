@@ -25,5 +25,5 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">pranshu007parashar@gmail.com</a>
+  📫 How to reach me: <a href="mailto: pranshu007parashar@gmail.com">pranshu007parashar@gmail.com</a>
 </p>
