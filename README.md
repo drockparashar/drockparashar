@@ -23,7 +23,7 @@
   <br>
   📚 I’m currently learning how to build full-stack apps
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/drockparashar/drockparashar/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: pranshu007parashar@gmail.com">pranshu007parashar@gmail.com</a>
 </p>
