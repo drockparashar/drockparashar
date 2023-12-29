@@ -1,9 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrockparashar%2Fdrockparashar&countColor=%232ccce4&style=plastic">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pranshu+Parashar+....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+there+!+%F0%9F%91%8B;This+is+Pranshu+Parashar.....;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
