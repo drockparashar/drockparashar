@@ -49,3 +49,13 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
 <hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drockparashar&theme=vue-dark&border_radius=11.6" alt="GitHub Streak" /></a>
+  </div>
+  <br>
+</p>
+
+<hr>
