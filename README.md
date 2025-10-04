@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drockparashar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drockparashar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-</div>
 ![snake gif](https://github.com/drockparashar/drockparashar/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
