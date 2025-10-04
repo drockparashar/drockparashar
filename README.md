@@ -15,7 +15,7 @@
 <div align="left">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
-  ![snake gif](https://github.com/drockparashar/drockparashar/blob/output/github-snake-dark.svg)
 </div>
+![snake gif](https://github.com/drockparashar/drockparashar/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
